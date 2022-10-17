@@ -1,15 +1,18 @@
 @font-face {
   font-family: 'opensansLight';
+  font-display: swap;
   src: url(../open-sans/OpenSans-Light.ttf);
 }
 
 @font-face {
   font-family: 'opensansextrabold';
+  font-display: swap;
   src: url(../open-sans/OpenSans-ExtraBold.ttf);
 }
 
 @font-face {
   font-family: 'opensansregular';
+  font-display: swap;
   src: url(../open-sans/OpenSans-Regular.ttf);
 }
 
